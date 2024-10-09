@@ -1,11 +1,12 @@
+# NATOURS PROJECT
 
-# CSS Animations with Sass 🌟
+## CSS Animations with Sass 🌟
 
 This project showcases various CSS animations created using Sass to enhance the maintainability and structure of the styles. The animations cover different visual effects and transitions, demonstrating the power of CSS combined with Sass for managing complex styles.
 
 
 
-# NATOURS PROJECT
+
 ## Demo
 
 https://sercanturhan-css-animations.netlify.app
