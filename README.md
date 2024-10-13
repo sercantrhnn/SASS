@@ -26,6 +26,47 @@ https://sercanturhan-css-animations.netlify.app
 
 **Sass (SCSS):** Preprocessor used for writing maintainable and modular CSS.
 
+
+
+
+
+
+# NEXTER PROJECT
+
+## CSS Grid Project
+
+This project is a demonstration of layout design using CSS Grid and Sass. It showcases various grid-based layouts, offering responsive and visually appealing designs.
+
+
+## Demo
+
+https://sercanturhan-css-grid.netlify.app
+
+  
+## Features
+
+- **CSS Grid Layouts:** The project makes extensive use of CSS Grid to create flexible and responsive layouts.
+
+- **Responsive Design:** The grid layouts adapt to different screen sizes, ensuring a consistent experience across devices.
+
+- **Sass for Styling:** The styling is written using Sass, making the CSS code modular, maintainable, and reusable.
+
+
+- **Modern Web Design:** The project follows best practices for modern web design and layout structuring.
+
+  
+## Technologies Used
+
+**HTML5:** For creating the structure of the web pages.
+
+
+**CSS Grid:** Used for building complex and responsive layouts.
+
+
+**Sass:** A CSS preprocessor that provides advanced features like variables, mixins, and nesting for easier CSS management.
+
+  
+
 **CSS Animations:** Core feature of the project, showcasing various animation techniques.
 
 
