@@ -30,7 +30,7 @@ https://sercanturhan-css-animations.netlify.app
 
 
 
-
+---
 # NEXTER PROJECT
 
 ## CSS Grid Project
